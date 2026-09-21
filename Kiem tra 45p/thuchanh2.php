@@ -22,3 +22,5 @@ foreach ($products as $p) {
 }
 
 echo "<strong>Tổng giá trị: " . number_format(totalValue($products)) . " VNĐ</strong>";
+
+?>
